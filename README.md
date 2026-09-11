@@ -28,6 +28,6 @@ An open-source Kubernetes RBAC attack-surface analyzer written in Go. It helps p
 ## 📫 Contact
 
 - [Telegram](https://t.me/nexymor22) — @nexymor22
-- [Email] - creexey22@gmail.com
+- Email - creexey22@gmail.com
 
 Open to remote **DevOps, DevSecOps, and Platform Engineering** opportunities.
